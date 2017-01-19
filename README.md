@@ -3,7 +3,7 @@
 开源地址：[https://github.com/open-android/PullToRefresh](https://github.com/open-android/PullToRefresh)
 
 ## 运行效果 ##
-![](img/pulltorefresh.gif)
+![pulltorefresh.gif](http://upload-images.jianshu.io/upload_images/4037105-f14baf5a661b9b2d.gif?imageMogr2/auto-orient/strip)
 
 * 爱生活,爱学习,更爱做代码的搬运工,分类查找更方便请下载黑马助手app
 
